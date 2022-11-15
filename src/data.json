@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Death Bed",
+    "artist": "Powfu",
+    "img": "/static/images/death-bed.jpg",
+    "source": "/static/music/death-bed.mp3",
+    "id": "1"
+  },
+  {
+    "title": "Bad Liar",
+    "artist": "Imagine Dragons",
+    "img": "/static/images/bad-liar.jpg",
+    "source": "/static/music/bad-liar.mp3",
+    "id": "2"
+  },
+  {
+    "title": "Faded",
+    "artist": "Alan Walker",
+    "img": "/static/images/faded.jpg",
+    "source": "/static/music/faded.mp3",
+    "id": "3"
+  },
+  {
+    "title": "Bad Guy",
+    "artist": "Billie Eilish",
+    "img": "/static/images/bad-guy.jpg",
+    "source": "/static/music/bad-guy.mp3",
+    "id": "4"
+  },
+  {
+    "title": "Solo",
+    "artist": "Clean Bandit",
+    "img": "/static/images/solo.jpg",
+    "source": "/static/music/solo.mp3",
+    "id": "5"
+  },
+  {
+    "title": "Without Me",
+    "artist": "Halsey",
+    "img": "/static/images/without-me.jpg",
+    "source": "/static/music/without-me.mp3",
+    "id": "6"
+  },
+  {
+    "title": "Jugnu",
+    "artist": "Badshah",
+    "img": "/static/images/jugnu.jpg",
+    "source": "/static/music/jugnu.mp3",
+    "id": "7"
+  }
+]
